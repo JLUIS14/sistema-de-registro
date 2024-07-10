@@ -4,3 +4,4 @@
 
 - para ejecutar el sistema, debes poner:
 - ```npm install react```
+- estoy agregando texto para actualizar este cambio en mi carpeta local.
