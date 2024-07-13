@@ -18,4 +18,4 @@
 - git checkout -b desarrollo  se crea la rama desarrollo
 - git switch para cambiar a una rama o principal
 - git push origin desarrollo para actualizar el github desde la consola que no es la principal
-- 
+- git pull origin Principal "para actualizar los cambios a la carpeta local cuando existen ramas"
