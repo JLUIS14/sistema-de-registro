@@ -22,3 +22,4 @@
 hay dos formas de crear una rama
 git checkout -b git branch nombre-de-la-branch
 git branch nombre-de-la-branch  "solo que en esta opcion para pasar a la branch se debe usar git switch nombre de la branch
+git push origin --delete :$branchname elimina una rama remota
