@@ -14,3 +14,8 @@
 - para actualizar el archivo desde el respositorio a la carpeta local git pull
 - Para agregar los cambios realizados de una sola vez, es necesario usar git add . (git add y un punto) y,
 -  para agregar los cambios en algún archivo específico, usamos a git add nombre-del-archivo-modificado.
+- git checkout para ver las ramas y para crear una rama
+- git checkout -b desarrollo  se crea la rama desarrollo
+- git switch para cambiar a una rama o principal
+- git push origin desarrollo para actualizar el github desde la consola que no es la principal
+- 
