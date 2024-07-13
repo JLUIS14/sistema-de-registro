@@ -28,6 +28,3 @@ git fetch origin main
 git rebase -i origin/main
 # Squash commits, fix up commit messages etc.
 git push origin main  todo este paquete hace que todas tus confirmaciones de tu rama principal envie al repositorio remoto principal
-=======
-Aprendimos cómo acceder al historial de commits de un repositorio a través del git log;
->>>>>>> desarrollo
