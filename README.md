@@ -25,5 +25,5 @@
 - git checkout main
 - git fetch origin main
 - git rebase -i origin/main
-- # Squash commits, fix up commit messages etc.
+
 - git push origin main  todo este paquete hace que todas tus confirmaciones de tu rama principal envie al repositorio remoto principal
