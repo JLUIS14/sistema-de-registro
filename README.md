@@ -14,6 +14,7 @@
 - para actualizar el archivo desde el respositorio a la carpeta local git pull
 - Para agregar los cambios realizados de una sola vez, es necesario usar git add . (git add y un punto) y,
 -  para agregar los cambios en algún archivo específico, usamos a git add nombre-del-archivo-modificado.
+<<<<<<< HEAD
 - git checkout para ver las ramas y para crear una rama
 - git checkout -b desarrollo  se crea la rama desarrollo
 - git switch para cambiar a una rama o principal
@@ -27,3 +28,6 @@ git fetch origin main
 git rebase -i origin/main
 # Squash commits, fix up commit messages etc.
 git push origin main  todo este paquete hace que todas tus confirmaciones de tu rama principal envie al repositorio remoto principal
+=======
+Aprendimos cómo acceder al historial de commits de un repositorio a través del git log;
+>>>>>>> desarrollo
