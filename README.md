@@ -22,12 +22,8 @@
 hay dos formas de crear una rama
 git checkout -b git branch nombre-de-la-branch
 git branch nombre-de-la-branch  "solo que en esta opcion para pasar a la branch se debe usar git switch nombre de la branch
-<<<<<<< HEAD
-git push origin --delete :$branchname elimina una rama remota
-=======
 git checkout main
 git fetch origin main
 git rebase -i origin/main
 # Squash commits, fix up commit messages etc.
 git push origin main  todo este paquete hace que todas tus confirmaciones de tu rama principal envie al repositorio remoto principal
->>>>>>> e03c880619ffd63e195772c888429d2a91997601
