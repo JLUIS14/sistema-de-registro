@@ -12,4 +12,5 @@
 - para comprometerse git commit -m "accion lo que debe hacer"
 - para subir al github git push
 - para actualizar el archivo desde el respositorio a la carpeta local git pull
-- 
+- Para agregar los cambios realizados de una sola vez, es necesario usar git add . (git add y un punto) y,
+-  para agregar los cambios en algún archivo específico, usamos a git add nombre-del-archivo-modificado.
